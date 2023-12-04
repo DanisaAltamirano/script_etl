@@ -28,13 +28,3 @@ Identificar correlaciones entre variables utilizando gráficos de dispersión o 
 
 Manipular archivos y directorios usando la biblioteca os.
 Crear, mover o renombrar archivos y carpetas según sea necesario.
-
-6. Carga (Load):
-
-Guardar los datos transformados en un nuevo archivo local con pandas.
-Enviar datos a una base de datos (por ejemplo, MySQL, PostgreSQL) utilizando las herramientas correspondientes.
-
-7. Automatización:
-
-Crear scripts o funciones reutilizables para automatizar el proceso de ETL.
-Utilizar programación de tareas o cron jobs para ejecutar el proceso de ETL en intervalos específicos.
